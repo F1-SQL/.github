@@ -23,13 +23,16 @@ If any data is missing or incorrect please submit an issue so that it can be upd
 
 If you are looking for documentation that is available [here](https://sequel-formula.com/)
 
-<!--
+## Reporting An Issue
 
-**Here are some ideas to get you started:**
+If you find an issue with the data, the database schema or any other aspect of the project, please open a [issue](https://github.com/Sequel-Formula/Sequel-Formula/issues/new/choose) and we will do our best to get it resolved.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Pull Requests & Contributing
+
+This project is still in it's infancy we have lots of things planned for it in the future, however, if you would like to contribute, we would love it if you opened a pull request. 
+
+You can find details on how to contribute in our documentation.
+
+## Versioning
+
+If you would like to learn more about the version schema we use on this project, you can find a page in our [documentation](https://sequel-formula.com/docs/about/versioning) dedicated to that topic.
