@@ -1,4 +1,4 @@
-![](images/git-banner.png)
+![](profile/images/git-banner.png)
 
 ![Linter](https://github.com/Rich-In-SQL/Sequel-Formula/actions/workflows/powershell.yml/badge.svg)
 ![GitHub Repo stars](https://img.shields.io/github/stars/rich-in-sql/sequel-formula)
