@@ -36,3 +36,11 @@ You can find details on how to contribute in our documentation.
 ## Versioning
 
 If you would like to learn more about the version schema we use on this project, you can find a page in our [documentation](https://sequel-formula.com/docs/about/versioning) dedicated to that topic.
+
+## Legal
+
+Although we try and keep the data in this project correct and up to date, we do not state that it always is. The use of this data is at your own risk. 
+
+This project is in no way affiliated with Formula 1 companies. 
+
+F1, Formula One, Formula 1, FIA and related trademarks are trademarks of Formula One Licensing B.V.
